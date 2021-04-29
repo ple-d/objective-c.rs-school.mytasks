@@ -1,1 +1,1 @@
-# objective-c.rs-school.mytasks
+Thats just my tries to solve tasks at obj-c from lectures
